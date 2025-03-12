@@ -3,6 +3,7 @@ const app = express();
 const port = 5000;
 const events = require('./event');
 
+app.use(express.static('public'));
 
 app.set("view engine", "ejs");
 

@@ -26,4 +26,5 @@ On ajoute un bout de code pour tester le fonctionnement correct de notre module
 ![alt text](image-11.png)
 ![alt text](image-9.png)
 
-## Ajout de style 
+## Ajout de style + Rendu 
+![alt text](image-12.png)
