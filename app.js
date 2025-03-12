@@ -7,8 +7,9 @@ const events = require('./event');
 app.set("view engine", "ejs");
 
 app.get("/", (req, res) => {
-    res.send("Projet initialisé !");
+    res.render("index", { events: events });
 });
+
 
 console.log(events);
 
