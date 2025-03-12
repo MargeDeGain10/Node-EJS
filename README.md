@@ -14,4 +14,5 @@ On ajoute un bout de code pour tester le fonctionnement correct de notre module
 ![alt text](image-4.png)
 ![alt text](image-5.png)
 
-##
+## Structurer les dossiers 
+![alt text](image-6.png)
