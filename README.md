@@ -16,3 +16,7 @@ On ajoute un bout de code pour tester le fonctionnement correct de notre module
 
 ## Structurer les dossiers 
 ![alt text](image-6.png)
+
+## Header et footer
+![alt text](image-8.png)
+![alt text](image-7.png)
